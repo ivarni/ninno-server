@@ -20,7 +20,7 @@
   "homepage": "https://github.com/ivarni/ninno-server#readme",
   "dependencies": {
     "express": "^4.15.2",
-    "ninno-client": "^1.0.1"
+    "ninno-client": "^1.0.2"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
