@@ -19,14 +19,14 @@
   },
   "homepage": "https://github.com/ivarni/ninno-server#readme",
   "dependencies": {
-    "express": "^4.15.0",
-    "ninno-client": "^1.0.0"
+    "express": "^4.15.2",
+    "ninno-client": "^1.0.1"
   },
   "devDependencies": {
-    "eslint": "^3.17.0",
-    "eslint-config-airbnb-base": "^11.1.1",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.1.3",
     "eslint-plugin-import": "^2.2.0",
-    "husky": "^0.13.2",
+    "husky": "^0.13.3",
     "nodemon": "^1.11.0"
   }
 }
