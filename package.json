@@ -20,6 +20,7 @@
   "homepage": "https://github.com/ivarni/ninno-server#readme",
   "dependencies": {
     "express": "^4.15.2",
+    "express-history-api-fallback": "^2.1.0",
     "ninno-client": "^1.0.2"
   },
   "devDependencies": {
