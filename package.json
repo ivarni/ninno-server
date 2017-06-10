@@ -21,7 +21,7 @@
   "dependencies": {
     "express": "^4.15.2",
     "express-history-api-fallback": "^2.1.0",
-    "ninno-client": "^1.2.2"
+    "ninno-client": "^1.2.3"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
