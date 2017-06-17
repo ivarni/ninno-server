@@ -7,7 +7,9 @@ const app = express();
 /* eslint-disable global-require */
 if (process.env.NODE_ENV === 'production') {
     const enforce = require('express-sslify');
+    const compression = require('compression');
     app.use(enforce.HTTPS({ trustProtoHeader: true }));
+    app.use(compression());
 }
 /* eslint-enable global-require */
 

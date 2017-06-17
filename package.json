@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ivarni/ninno-server#readme",
   "dependencies": {
+    "compression": "^1.6.2",
     "express": "^4.15.2",
     "express-history-api-fallback": "^2.1.0",
     "express-sslify": "^1.2.0",
